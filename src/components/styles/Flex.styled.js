@@ -7,7 +7,7 @@ export const Flex = styled.div`
     align-items: center;
 
     & > div,
-    $ > ul {
+    & > ul {
         flex: 1;
     }
 
