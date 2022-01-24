@@ -14,10 +14,11 @@ Practice styling in React with styled components
 - Works using template literals and regular CSS syntax, flexbox etc. 
 
 # Packages used:
-styled-components
-react-icons 
+- styled-components
+- react-icons 
 
 # Screenshots:
 
-![Screen Shot #1](Screenshot-1.png)
-![Screen Shot #2](Screenshot-2.png)
+![Screen Shot #1](public/images/Screenshot-1.png)
+
+![Screen Shot #2](public/images/Screenshot-2.png)

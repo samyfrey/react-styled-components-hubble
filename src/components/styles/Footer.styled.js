@@ -14,6 +14,7 @@ export const StyledFooter = styled.footer`
 		margin-bottom: 20px;
 	}
 
+
 	p {
 		text-align: right;
 	}
